@@ -1,11 +1,11 @@
-Electron render node CLI.
+Electron renderer node CLI.
 ========================
 
 > Execute script and run REPL in electron renderer (the Chrome + Node.js environment).
 
 ### Installation
 ```sh
-npm i electron-render-node -g
+npm i electron-renderer-node -g
 ```
 
 ### Usage

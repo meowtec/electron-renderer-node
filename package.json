@@ -1,5 +1,5 @@
 {
-  "name": "electron-render-node",
+  "name": "electron-renderer-node",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -15,6 +15,6 @@
   },
   "bin": {
     "ern": "./cli.js",
-    "electron-render-node": "./cli.js"
+    "electron-renderer-node": "./cli.js"
   }
 }
