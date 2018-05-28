@@ -21,7 +21,7 @@ ern
 
 ### WHY I WROTE(USE) IT
 
-1. Logs in command line is hard to read.
+1. Logs in command line are hard to read.
 2. There are too many steps with `node --inspect-brk`.
 3. I want to use `Ctrl+R` to re-run my code.
 4. I need the DOM API sometimes.
